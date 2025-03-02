@@ -1,7 +1,6 @@
 <h1 align="center">Hi🎃 , I'm Esra</h1>
 <h3 align="center">AI developer from Turkey</h3>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -25,8 +24,6 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esracum&show_icons=true&locale=en&layout=compact" alt="esracum" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esracum&show_icons=true&locale=en" alt="esracum" /></p>
 
