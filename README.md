@@ -1,4 +1,4 @@
- [![MasterHead](https://seyler.ekstat.com/img/max/800/L/L66Lsnk6IxotMCTw-636886938183876592.jpg)
+ [![MasterHead](https://m.media-amazon.com/images/M/MV5BYzU2YzUxOTYtNmYwOS00NjA5LTg3OTMtOGM5ZTBlZGQ1YjExXkEyXkFqcGc@._V1_.jpg)
 <h1 align="center">Hi 👋, I'm Esra</h1>
 <h3 align="center">AI developer from Turkey</h3>
 
