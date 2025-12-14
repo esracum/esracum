@@ -4,8 +4,5 @@
 <div align="right">
   <img src="https://media.giphy.com/media/7x5t7Xpmm6nJpqETG6/giphy.gif" width="100" />
 </div>
-<div align="left">
-  <img src="https://media.giphy.com/media/ZgKHyjHcMaqTdVJxjW/giphy.gif" width="80" />
-</div>
-  
+
 
