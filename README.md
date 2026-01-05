@@ -1,19 +1,12 @@
-<table align="center">
-  <tr>
-    <td valign="center">
-      <h1>Hi, I'm Esra 👋</h1>
-      <h3>Computer Engineer</h3>
-      <p>
-        Software developer from Turkey, specializing in Autonomous Systems, 
-        Computer Vision (C++/OpenCV), and AI agents.
-      </p>
-    </td>
-    <td valign="center">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9mNmplOGk1NDU2NjRmZWZzMmgyYXJqYXoyaWlmY3hweDdnbnB0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gie76aVZpoArr6Nogs/giphy.gif" width="150" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<h1>Hi, I'm Esra 👋</h1>
+<h3>Computer Engineer</h3>
+<p>
+  Software developer from Turkey, specializing in Autonomous Systems, 
+  Computer Vision (C++/OpenCV), and AI agents.
+</p>
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9mNmplOGk1NDU2NjRmZWZzMmgyYXJqYXoyaWlmY3hweDdnbnB0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gie76aVZpoArr6Nogs/giphy.gif" width="150" style="border-radius: 10px;" />
+   
 
 <p align="left">
   <a href="https://skillicons.dev">
