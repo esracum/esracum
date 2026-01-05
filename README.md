@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-007bff?style=for-the-badge&logo=hugo&logoColor=white" />
   </a>
 </div>
+</br>
 
 <p align="center">
   <a href="https://skillicons.dev">
