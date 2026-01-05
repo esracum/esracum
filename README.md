@@ -1,11 +1,9 @@
 <h1>Hi, I'm Esra 👋</h1>
 <h3>Computer Engineer</h3>
 <p>
-  Software developer from Turkey, specializing in Autonomous Systems, 
-  Computer Vision (C++/OpenCV), and AI agents.
+  Software developer from Turkey, specializing in Autonomous Systems (Dronekit, MAVSDK), 
+  Computer Vision (Python, C++, QML, OpenCV), and AI agents. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9mNmplOGk1NDU2NjRmZWZzMmgyYXJqYXoyaWlmY3hweDdnbnB0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gie76aVZpoArr6Nogs/giphy.gif" width="150" style="border-radius: 10px;" />
 </p>
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9mNmplOGk1NDU2NjRmZWZzMmgyYXJqYXoyaWlmY3hweDdnbnB0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gie76aVZpoArr6Nogs/giphy.gif" width="150" style="border-radius: 10px;" />
    
 
 <p align="left">
