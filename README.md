@@ -4,10 +4,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,cpp,mysql,linux,git,cmake,sklearn,opencv,tensorflow,pytorch,docker&theme=light" />
   </a>
+  </br>
   Software developer from Turkey, specializing in Autonomous Systems (Dronekit, MAVSDK), 
   Computer Vision (Python, C++, QML, OpenCV), and AI agents.
 </p>
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9mNmplOGk1NDU2NjRmZWZzMmgyYXJqYXoyaWlmY3hweDdnbnB0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gie76aVZpoArr6Nogs/giphy.gif" width="150" style="border-radius: 10px;" />  
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9mNmplOGk1NDU2NjRmZWZzMmgyYXJqYXoyaWlmY3hweDdnbnB0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gie76aVZpoArr6Nogs/giphy.gif" width="150" style="border-radius: 10px;" />
+</div>
 
 <p align="center">
   <a href="https://esracum.github.io/">
