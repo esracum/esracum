@@ -1,19 +1,11 @@
 <h1 align="center">Hi, I'm Esra 👋</h1>
-<h3 align="center">Computer Engineer | Software Unit Lead @ UAV Teams</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <div align="center">
   <div align="right">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9mNmplOGk1NDU2NjRmZWZzMmgyYXJqYXoyaWlmY3hweDdnbnB0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gie76aVZpoArr6Nogs/giphy.gif" width="150" />
   </div>
 </div>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
 
 <br/>
 
