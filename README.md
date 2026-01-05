@@ -2,7 +2,7 @@
 <h3>Computer Engineer</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,cpp,qt,mysql,linux,git,cmake,sklearn,opencv,tensorflow,pytorch,docker,ros,raspberrypi,arduino,hugo&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,cs,cpp,qt,mysql,linux,git,cmake,sklearn,opencv,tensorflow,pytorch,docker,raspberrypi,arduino,hugo&theme=light" />
   </a>
 </p>
 <div align="center">
