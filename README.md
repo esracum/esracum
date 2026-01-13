@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi, I'm Esra 👋 Computer Engineer from Turkey. <br/>
-  Specializing in Autonomous Systems, Computer Vision, and AI agents.</h2>
+  Exploring Autonomous Systems, Computer Vision, and AI agents.</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,cpp,qt,sklearn,linux,git,cmake,tensorflow,pytorch,docker,arduino,raspberrypi&theme=light" />
